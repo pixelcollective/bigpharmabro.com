@@ -96,6 +96,7 @@
     "wpackagist-plugin/wp-dobby": ">=1",
     "wpackagist-plugin/wp-html-mail": ">=2",
     "wpackagist-plugin/breadcrumb-navxt": "^6.2",
+    "wpackagist-plugin/next-page-not-next-post": ">=0.3",
     "wpackagist-plugin/static-html-output-plugin": ">=6"
   },
   "require-dev": {
